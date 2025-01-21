@@ -1,0 +1,29 @@
+.footer {
+    background:#7a7979;
+    color:#FFF;
+    padding:80px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+
+.footer ul li {
+    display:inline-block;
+    margin-right: 32px;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+}
+
+.footer .desenvolvido {
+    font-size: 24px;
+}
+
+/* retirado do figma */
+.footer .logo {
+    width: 166px;
+    height: 63px;
+    top: 4816px;
+    left: 637px;
+}
